@@ -1,0 +1,1 @@
+export const fetchGeneralmanager = "FETCH-GENERAL-MANAGER";
